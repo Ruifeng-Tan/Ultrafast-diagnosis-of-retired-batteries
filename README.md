@@ -1,1 +1,3 @@
 # Ultrafast-diagnosis-of-retired-batteries
+
+This repository provides preprocessing code for the work "Unlocking ultrafast diagnosis of retired batteries via interpretable machine learning and optical fiber sensors". You can download the raw datasets from the Figshare: https://figshare.com/articles/dataset/Raw_data_of_the_LMO_and_LFP_batteries/26927398. After that, you can use the code in `data_utils/interplotate_sample_frequency_strict.ipynb` to concatenate the raw optical data and electrochemical data together.
